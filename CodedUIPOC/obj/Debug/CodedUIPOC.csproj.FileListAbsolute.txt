@@ -1,0 +1,6 @@
+C:\Users\eliza\source\repos\CodedUIPOC\CodedUIPOC\bin\Debug\CodedUIPOC.dll
+C:\Users\eliza\source\repos\CodedUIPOC\CodedUIPOC\bin\Debug\CodedUIPOC.pdb
+C:\Users\eliza\source\repos\CodedUIPOC\CodedUIPOC\obj\Debug\CodedUIPOC.csprojAssemblyReference.cache
+C:\Users\eliza\source\repos\CodedUIPOC\CodedUIPOC\obj\Debug\CodedUIPOC.csproj.CoreCompileInputs.cache
+C:\Users\eliza\source\repos\CodedUIPOC\CodedUIPOC\obj\Debug\CodedUIPOC.dll
+C:\Users\eliza\source\repos\CodedUIPOC\CodedUIPOC\obj\Debug\CodedUIPOC.pdb
